@@ -2,13 +2,18 @@
 
 Este projeto é uma aplicação web básica para gerenciar produtos. Ele foi desenvolvido utilizando **Java**, **Servlets**, **JSP**, **JDBC** e **MySQL**, seguindo o padrão MVC.
 
-## Estrutura do Projeto
+## Alunos: 
+0019981 - Luis Fellipe Fernandes de Oliveira.
+
+0020482- Leonardo Rodrigues 
+
+## Estrutura do Projeto 👷‍♂️
 
 ### 1. **Produto.java**
 
 Esta classe representa o modelo de dados de um produto. Ela inclui os seguintes atributos e métodos:
 
-- **Atributos:**
+- **Atributos:** 🪟
   - `id`: Identificador único do produto.
   - `nome`: Nome do produto.
   - `descricao`: Descrição do produto.
@@ -92,7 +97,6 @@ O formulário se adapta automaticamente para inserção ou edição, dependendo 
 | **MySQL**                   | Banco de dados relacional                   | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
 | **Bootstrap**               | Estilização e responsividade                | ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) |
 | **Tomcat**                  | Servidor de aplicação para Java             | ![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black) |
-| **Eclipse IDE** ou **IntelliJ IDEA** | IDEs para desenvolvimento             | ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)  |
+| **Eclipse IDE** ou **IntelliJ IDEA** | IDEs para desenvolvimento             | ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white) |
 
 ---
-
