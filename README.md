@@ -1,6 +1,6 @@
 # Sistema de Gerenciamento de Produtos
 
-Este projeto é uma aplicação web básica para gerenciar produtos. Ele foi desenvolvido utilizando Java, Servlets, JSP, JDBC e MySQL, seguindo o padrão MVC.
+Este projeto é uma aplicação web básica para gerenciar produtos. Ele foi desenvolvido utilizando **Java**, **Servlets**, **JSP**, **JDBC** e **MySQL**, seguindo o padrão MVC.
 
 ## Estrutura do Projeto
 
@@ -81,13 +81,18 @@ O formulário se adapta automaticamente para inserção ou edição, dependendo 
 
 ---
 
-### 6. **Dependências do Projeto**
+## Ferramentas Utilizadas 🛠️
 
-- **Java:** 11+
-- **MySQL:** Para o banco de dados.
-- **Bibliotecas:**
-  - JSTL para iteração e exibição dinâmica.
-  - Bootstrap 5 para o design responsivo.
-- **Driver JDBC:** `mysql-connector-java`
+| Ferramenta                  | Função                                      | Ícone                                                                                         |
+|-----------------------------|---------------------------------------------|----------------------------------------------------------------------------------------------|
+| **Java**                    | Linguagem de programação principal          | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) |
+| **Servlets**                | Controle de requisições HTTP                | ![Servlet](https://img.shields.io/badge/Servlet-4CAF50?style=for-the-badge&logo=java&logoColor=white) |
+| **JSP**                     | Renderização de páginas dinâmicas           | ![JSP](https://img.shields.io/badge/JSP-blue?style=for-the-badge&logo=java&logoColor=white)   |
+| **JDBC**                    | Conexão com banco de dados                  | ![JDBC](https://img.shields.io/badge/JDBC-orange?style=for-the-badge&logo=java&logoColor=white) |
+| **MySQL**                   | Banco de dados relacional                   | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
+| **Bootstrap**               | Estilização e responsividade                | ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) |
+| **Tomcat**                  | Servidor de aplicação para Java             | ![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black) |
+| **Eclipse IDE** ou **IntelliJ IDEA** | IDEs para desenvolvimento             | ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)  |
 
 ---
+
